@@ -17,7 +17,7 @@
             <ul>
                 <li><a href="/admin/product">Управління товарами</a></li>
             
-             
+                <li><a href="/admin/category">Управління підкатегоріями</a></li>
                 <li><a href="/admin/order">Управління замовленнями</a></li>
             </ul>
             
